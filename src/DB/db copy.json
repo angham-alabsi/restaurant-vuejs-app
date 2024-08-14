@@ -1,0 +1,51 @@
+{
+  "users": [
+    {
+      "name": "Angham",
+      "password": "123321",
+      "email": "aa@a.com",
+      "id": "5af5"
+    },
+    {
+      "id": "9490",
+      "name": "Ali",
+      "password": "123",
+      "email": "b@b.com"
+    },
+    {
+      "id": "158d",
+      "name": "Noor",
+      "password": "123",
+      "email": "c@c.com"
+    },
+    {
+      "id": "8c4c",
+      "name": "samah",
+      "password": "123",
+      "email": "d@d.com"
+    }
+  ],
+  "locations": [
+    {
+      "id": "5696",
+      "name": "rrrrrrrrrrrrrrrrrrrrr1",
+      "phone": "ppppppppppppp1",
+      "address": "aaaaaaaaaaaaaaa1",
+      "userId": "5af5"
+    },
+    {
+      "id": "af28",
+      "name": "rrrrrrrrrrrrrrrr2",
+      "phone": "pppppppppp2",
+      "address": "aaaaaaaaaaa2",
+      "userId": "5af5"
+    },
+    {
+      "id": "f32e",
+      "name": "rrrrrrrrrrrrrrrrrr3",
+      "phone": "ppppppppppp3",
+      "address": "aaaaaaaaaaaaa3",
+      "userId": "5af5"
+    }
+  ]
+}

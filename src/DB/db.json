@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "name": "Angham",
+      "password": "123321",
+      "email": "aa@a.com",
+      "id": "5af5"
+    },
+    {
+      "id": "9490",
+      "name": "Ali",
+      "password": "123",
+      "email": "b@b.com"
+    },
+    {
+      "id": "158d",
+      "name": "Noor",
+      "password": "123",
+      "email": "c@c.com"
+    },
+    {
+      "id": "8c4c",
+      "name": "samah",
+      "password": "123",
+      "email": "d@d.com"
+    }
+  ],
+  "locations": [
+    {
+      "name": "Lorem Ipsum 1",
+      "phone": "777777777",
+      "address": "Lorem Ipsum 1 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "userId": "5af5",
+      "id": "af28"
+    },
+    {
+      "name": "Lorem Ipsum 2",
+      "phone": "777777777",
+      "address": "Lorem Ipsum 2 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "userId": "5af5",
+      "id": "f32e"
+    },
+    {
+      "name": "Lorem Ipsum 3",
+      "phone": "777777777",
+      "address": "Lorem Ipsum 3 is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+      "userId": "2",
+      "id": "f"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3da8",
+      "name": "Breakfast",
+      "locationId": "af28",
+      "userId": "5af5"
+    },
+    {
+      "id": "7406",
+      "name": "Lunch",
+      "locationId": "af28",
+      "userId": "5af5"
+    },
+    {
+      "id": "acd6",
+      "name": "Dinner",
+      "locationId": "f32e",
+      "userId": "5af5"
+    }
+  ],
+  "items": [
+    {
+      "id": "db29",
+      "name": "Chicken Fries",
+      "price": "2000.00",
+      "qty": 1000,
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "catId": "7406",
+      "locId": "af28",
+      "userId": "5af5"
+    },
+    {
+      "id": "db30",
+      "name": "Chicken Fries",
+      "price": "2000.00",
+      "qty": 1000,
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "catId": "7406",
+      "locId": "af28",
+      "userId": "5af5"
+    },
+    {
+      "name": "French Fries",
+      "price": "1300.00",
+      "qty": 200,
+      "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+      "catId": "3da8",
+      "locId": "af28",
+      "userId": "5af5",
+      "id": "8c15"
+    }
+  ]
+}
